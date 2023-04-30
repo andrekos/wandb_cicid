@@ -1,1 +1,1 @@
-# wandb_cicid
+# wandb-cicid
